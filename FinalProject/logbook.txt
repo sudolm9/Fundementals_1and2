@@ -1,0 +1,42 @@
+NEW GAME
+
+User pressed Refresh at 3 seconds
+GAME RESET
+
+User pressed Refresh at 1 seconds
+GAME RESET
+
+User pressed Refresh at 1 seconds
+GAME RESET
+
+User pressed Refresh at 1 seconds
+GAME RESET
+
+User pressed FindASolution at 2 seconds
+Computer generated answer was 3+1*3*7
+GAME CONTINUES
+
+User pressed Refresh at 5 seconds
+GAME RESET
+
+User pressed Refresh at 1 seconds
+GAME RESET
+
+User pressed Refresh at 1 seconds
+GAME RESET
+
+User pressed Refresh at 1 seconds
+GAME RESET
+
+User pressed Refresh at 1 seconds
+GAME RESET
+
+User pressed Refresh at 2 seconds
+GAME RESET
+
+User pressed Refresh at 1 seconds
+GAME RESET
+
+User pressed Refresh at 1 seconds
+GAME RESET
+

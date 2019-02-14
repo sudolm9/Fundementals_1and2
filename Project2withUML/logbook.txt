@@ -1,0 +1,13 @@
+NEW GAME
+
+User pressed FindASolution at 7 seconds
+Computer generated answer was No Answer Found...
+GAME CONTINUES
+
+User pressed Refresh at 14 seconds
+GAME RESET
+
+User pressed FindASolution at 1 seconds
+Computer generated answer was 9+(13*2)-11
+GAME CONTINUES
+
